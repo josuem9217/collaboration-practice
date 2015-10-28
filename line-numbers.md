@@ -6,7 +6,7 @@
 #### 6
 #### 7 Do u want m&ms*question mark*
 #### 8
-#### 9 GitHub is really awesome.
+#### 9 Can u git commit*question mark*
 #### 10
 #### 11
 #### 12
